@@ -4,3 +4,6 @@ For example: This README.md file is available on
 https://sample-room-glb.s3.ap-south-1.amazonaws.com/README.md
 
 Similarly following the file structure of this repo. one can download the required assets from S3.
+
+
+Status: Testing integration.

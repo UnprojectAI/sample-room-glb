@@ -9,7 +9,7 @@
             "asset_id" : "black-seat",
             "file" : "black-seat.gltf",
             "transform" : {
-                "position" : [0.0, 0, 0.0],
+                "position" : [0, 0, 0],
                 "rotation" : [0, 0, 0, 1],
                 "scale" : [0.754, 0.754, 0.754]
             }
@@ -18,7 +18,7 @@
             "asset_id" : "black-seat",
             "file" : "black-seat.gltf",
             "transform" : {
-                "position" : [0.05, 0, 0.76],
+                "position" : [0.76, 0, 0.05],
                 "rotation" : [0, 0, 0, 1],
                 "scale" : [0.754, 0.754, 0.754]
             }
@@ -27,7 +27,7 @@
             "asset_id" : "desk",
             "file" : "desk.glb",
             "transform" : {
-                "position" : [0.84, 0, 1.28],
+                "position" : [1.28, 0, 0.84],
                 "rotation" : [0, 0, 0, 1],
                 "scale" : [0.57, 0.57, 0.57]
             }
@@ -36,7 +36,7 @@
             "asset_id" : "high-back-seat",
             "file" : "seat.glb",
             "transform" : {
-                "position" : [-0.89, 0, 2.73],
+                "position" : [2.73, 0, -0.89],
                 "rotation" : [0, 0, 0, 1],
                 "scale" : [15, 15, 15]
             }
@@ -45,7 +45,7 @@
             "asset_id" : "red-sofa",
             "file" : "red-sofa.glb",
             "transform" : {
-                "position" : [2.12, 0, 0.77],
+                "position" : [0.77, 0, 2.12],
                 "rotation" : [0, 0, 0, 1],
                 "scale" : [0.0086, 0.0086, 0.0086]
             }
@@ -54,7 +54,7 @@
             "asset_id" : "wardrobe",
             "file" : "wardrobe.glb",
             "transform" : {
-                "position" : [1.57, 0, 2.632],
+                "position" : [2.632, 0, 1.57],
                 "rotation" : [0, 0, 0, 1],
                 "scale" : [0.85, 0.85, 0.85]
             }
@@ -63,7 +63,7 @@
             "asset_id" : "sofa-multi-texture",
             "file" : "SOFA.gltf",
             "transform" : {
-                "position" : [-1.61, 0, 1.66],
+                "position" : [1.66, 0, -1.61],
                 "rotation" : [0, 0, 0, 1],
                 "scale" : [0.074, 0.074, 0.074]
             }

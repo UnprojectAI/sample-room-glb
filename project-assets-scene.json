@@ -1,0 +1,72 @@
+{
+    "metadata" : {
+        "project_id" : "sample-room-glb",
+        "base_url" : "https://unproject-public-mumbai.s3.ap-south-1.amazonaws.com/sample-room-glb",
+        "assets_url" : "https://unproject-public-mumbai.s3.ap-south-1.amazonaws.com/sample-room-glb/assets"
+    },
+    "assets" : [
+        {
+            "asset_id" : "black-seat",
+            "file" : "black-seat.gltf",
+            "transform" : {
+                "position" : [0, 0, 0],
+                "rotation" : [0, 0, 0, 1],
+                "scale" : [1, 1, 1]
+            }
+        },
+        {
+            "asset_id" : "black-seat",
+            "file" : "black-seat.gltf",
+            "transform" : {
+                "position" : [1.0, 0, 0],
+                "rotation" : [0, 0, 0, 1],
+                "scale" : [1, 1, 1]
+            }
+        },
+        {
+            "asset_id" : "desk",
+            "file" : "desk.glb",
+            "transform" : {
+                "position" : [2.0, 0, 0],
+                "rotation" : [0, 0, 0, 1],
+                "scale" : [1, 1, 1]
+            }
+        },
+        {
+            "asset_id" : "high-back-seat",
+            "file" : "seat.glb",
+            "transform" : {
+                "position" : [3.0, 0, 0],
+                "rotation" : [0, 0, 0, 1],
+                "scale" : [1, 1, 1]
+            }
+        },
+        {
+            "asset_id" : "red-sofa",
+            "file" : "red-sofa.glb",
+            "transform" : {
+                "position" : [4.0, 0, 0],
+                "rotation" : [0, 0, 0, 1],
+                "scale" : [1, 1, 1]
+            }
+        },
+        {
+            "asset_id" : "wardrobe",
+            "file" : "wardrobe.glb",
+            "transform" : {
+                "position" : [5.0, 0, 0],
+                "rotation" : [0, 0, 0, 1],
+                "scale" : [1, 1, 1]
+            }
+        },
+        {
+            "asset_id" : "sofa-multi-texture",
+            "file" : "SOFA.gltf",
+            "transform" : {
+                "position" : [6.0, 0, 0],
+                "rotation" : [0, 0, 0, 1],
+                "scale" : [1, 1, 1]
+            }
+        }
+    ]
+}

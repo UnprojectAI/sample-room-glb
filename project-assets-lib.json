@@ -1,0 +1,33 @@
+{
+    "metadata" : {
+        "project_id" : "sample-room-glb",
+        "base_url" : "https://unproject-public-mumbai.s3.ap-south-1.amazonaws.com/sample-room-glb",
+        "assets_url" : "https://unproject-public-mumbai.s3.ap-south-1.amazonaws.com/sample-room-glb/assets"
+    },
+    "assets" : {
+            "black-seat" : {
+                "file" : "black-seat.gltf",
+                "type" : "glb"
+            },
+            "desk" : {
+                "file" : "desk.glb",
+                "type" : "glb"
+            },
+            "high-back-seat" : {
+                "file" : "seat.glb",
+                "type" : "glb"
+            },
+            "red-sofa" : {
+                "file" : "red-sofa.glb",
+                "type" : "glb"
+            },
+            "wardrobe" : {
+                "file" : "wardrobe.glb",
+                "type" : "glb"
+            },
+            "sofa-multi-texture" : {
+                "file" : "SOFA.gltf",
+                "type" : "gltf"
+            }
+    }
+}

@@ -6,6 +6,7 @@
     },
     "assets" : [
         {
+            "instance_id" : 0,
             "asset_id" : "black-seat",
             "file" : "black-seat.gltf",
             "transform" : {
@@ -15,6 +16,7 @@
             }
         },
         {
+            "instance_id" : 1,
             "asset_id" : "black-seat",
             "file" : "black-seat.gltf",
             "transform" : {
@@ -24,6 +26,7 @@
             }
         },
         {
+            "instance_id" : 2,
             "asset_id" : "desk",
             "file" : "desk.glb",
             "transform" : {
@@ -33,6 +36,7 @@
             }
         },
         {
+            "instance_id" : 3,
             "asset_id" : "high-back-seat",
             "file" : "seat.glb",
             "transform" : {
@@ -42,6 +46,7 @@
             }
         },
         {
+            "instance_id" : 4,
             "asset_id" : "red-sofa",
             "file" : "red-sofa.glb",
             "transform" : {
@@ -51,6 +56,7 @@
             }
         },
         {
+            "instance_id" : 5,
             "asset_id" : "wardrobe",
             "file" : "wardrobe.glb",
             "transform" : {
@@ -60,6 +66,7 @@
             }
         },
         {
+            "instance_id" : 6,
             "asset_id" : "sofa-multi-texture",
             "file" : "SOFA.gltf",
             "transform" : {

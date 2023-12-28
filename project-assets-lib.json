@@ -28,6 +28,18 @@
             "sofa-multi-texture" : {
                 "file" : "SOFA.gltf",
                 "type" : "gltf"
+            },
+            "plane" : {
+                "file" : "plane.glb",
+                "type" : "glb"
+            },
+            "cube" : {
+                "file" : "cube.glb",
+                "type" : "glb"
+            },
+            "sphere" : {
+                "file" : "sphere.glb",
+                "type" : "glb"
             }
     }
 }
